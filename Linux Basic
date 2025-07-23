@@ -1,0 +1,15 @@
+What is Operating system?
+An Operating System (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs.
+It acts as an intermediary between users and the computer hardware, enabling interaction through a graphical user interface (GUI) or command-line interface (CLI).
+
+Why is an OS Important?
+.Without an OS, users would need to manually control hardware (impossible for modern computers).
+.Enables software like browsers, games, and apps to run.
+.Manages resources efficiently (CPU, RAM, storage).
+.Provides security against malware and unauthorized access.
+
+What is Linux?
+Linux is a free, open-source operating system kernel that powers many distributions (distros) like Ubuntu, Fedora, and Debian.
+Known for its stability, security, and flexibility, Linux is widely used in servers, cloud computing, and development environments.
+Unlike Windows or macOS, it’s highly customizable and runs efficiently even on older hardware
+
